@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 647f59e31afe748b6927313abdb3db76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2840838843087524114
+    second: Super Battle Droid 1_0
+  - first:
+      213: -2871459977550610565
+    second: Super Battle Droid 1_1
+  - first:
+      213: -2990127383528101652
+    second: Super Battle Droid 1_2
+  - first:
+      213: -3135365969489950602
+    second: Super Battle Droid 1_3
+  - first:
+      213: -7395985345265686138
+    second: Super Battle Droid 1_4
+  - first:
+      213: -842824405047062971
+    second: Super Battle Droid 1_5
+  - first:
+      213: 2753994161604080405
+    second: Super Battle Droid 1_6
+  - first:
+      213: 8789352002770972543
+    second: Super Battle Droid 1_7
+  - first:
+      213: 6523593749595100870
+    second: Super Battle Droid 1_8
+  - first:
+      213: -4500056094984526120
+    second: Super Battle Droid 1_9
+  - first:
+      213: 868917797155576137
+    second: Super Battle Droid 1_10
+  - first:
+      213: -1536055793760305106
+    second: Super Battle Droid 1_11
+  - first:
+      213: -7962999315060909678
+    second: Super Battle Droid 1_12
+  - first:
+      213: -1114545431230654542
+    second: Super Battle Droid 1_13
+  - first:
+      213: -5605633350191879745
+    second: Super Battle Droid 1_14
+  - first:
+      213: 6822486147041114316
+    second: Super Battle Droid 1_15
+  - first:
+      213: -2327816794720930812
+    second: Super Battle Droid 1_16
+  - first:
+      213: -6494390251277285641
+    second: Super Battle Droid 1_17
+  - first:
+      213: -4623716951853993643
+    second: Super Battle Droid 1_18
+  - first:
+      213: 7292026735596219984
+    second: Super Battle Droid 1_19
+  - first:
+      213: 4810916397225102395
+    second: Super Battle Droid 1_20
+  - first:
+      213: 3479784831135333647
+    second: Super Battle Droid 1_21
+  - first:
+      213: 3231877381950282421
+    second: Super Battle Droid 1_22
+  - first:
+      213: -433130405550610222
+    second: Super Battle Droid 1_23
+  - first:
+      213: 1758625366441662800
+    second: Super Battle Droid 1_24
+  - first:
+      213: 5352451683966859052
+    second: Super Battle Droid 1_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Battle Droid 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 726
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee2a5af105398d0800000000000000
+      internalID: -2840838843087524114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 727
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f38533d568628d0800000000000000
+      internalID: -2871459977550610565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 726
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a3afacfee086d0800000000000000
+      internalID: -2990127383528101652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 727
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67804bb3341fc74d0800000000000000
+      internalID: -3135365969489950602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 727
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a17b938e2c5990800000000000000
+      internalID: -7395985345265686138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 727
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec3294bafad44f0800000000000000
+      internalID: -842824405047062971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 727
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51339e34917283620800000000000000
+      internalID: 2753994161604080405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 727
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f280b141d0af970800000000000000
+      internalID: 8789352002770972543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 530
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c61397a3f5788a50800000000000000
+      internalID: 6523593749595100870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 530
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ad1de2d69c81c0800000000000000
+      internalID: -4500056094984526120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 529
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949197ef1240f0c00800000000000000
+      internalID: 868917797155576137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 531
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208cb9d465deaae0800000000000000
+      internalID: -1536055793760305106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 528
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999d1f005ebd7190800000000000000
+      internalID: -7962999315060909678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 530
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7567dd5d65880f0800000000000000
+      internalID: -1114545431230654542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9eabcfa2ac432b0800000000000000
+      internalID: -5605633350191879745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b86fe0075eae50800000000000000
+      internalID: 6822486147041114316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 72
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404787065fee1bfd0800000000000000
+      internalID: -2327816794720930812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 73
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68bd7a97a4fd5a0800000000000000
+      internalID: -6494390251277285641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 73
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517ac60ee145dfb0800000000000000
+      internalID: -4623716951853993643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e2dd36eab723560800000000000000
+      internalID: 7292026735596219984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 73
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c44b459fec3c240800000000000000
+      internalID: 4810916397225102395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3d920eddaa4030800000000000000
+      internalID: 3479784831135333647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba14cc0b5fe9dc20800000000000000
+      internalID: 3231877381950282421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82cb3e0363df9f0800000000000000
+      internalID: -433130405550610222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591fb30474e76810800000000000000
+      internalID: 1758625366441662800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Battle Droid 1_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 551
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c273944b27ab74a40800000000000000
+      internalID: 5352451683966859052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

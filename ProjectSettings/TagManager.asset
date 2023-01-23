@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  - Shrooms
+  - Restart
+  - End
+  - CheckPoint
+  - PowerUp
+  - Player Bullet
+  - Sprint
+  - Droid
+  - Super ups
+  - Boss Droid
+  - QuestWall
+  - Boss Droid Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2773400517
+    locked: 0
+  - name: BG1
+    uniqueID: 349512053
+    locked: 0
+  - name: MG
+    uniqueID: 3361569381
+    locked: 0
+  - name: Soil
+    uniqueID: 2986418681
+    locked: 0
+  - name: Platform
+    uniqueID: 781353275
+    locked: 0
+  - name: Droids
+    uniqueID: 369108937
+    locked: 0
+  - name: Player
+    uniqueID: 2020548687
+    locked: 0
